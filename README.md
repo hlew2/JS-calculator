@@ -1,1 +1,1 @@
-# JS-calculator
+A simple on-screen calculator using HTML, CSS and Vanilla JS.
